@@ -1,0 +1,28 @@
+body {
+	border: 8px solid #d3d3d3;
+	width: 50%;
+	margin: 5% auto;
+	padding: 5%;
+}
+
+h1, p {
+	color: #2b2b2b;
+	font-family: 'Jost', sans-serif;
+}
+
+.date {
+	color: #30c7d5;
+	text-transform: uppercase;
+	font-size: 10px;
+	letter-spacing: 1px;
+}
+
+.quote {
+	border-left: 5px solid #d3d3d3;
+	padding-left: 10px;
+}
+
+hr {
+	border-bottom: #cdcdcd;
+	margin: 20px 0;
+}
