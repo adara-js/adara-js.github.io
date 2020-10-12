@@ -22,3 +22,7 @@
 ## Week 4
 - [Homework 1](https://adara-js.github.io/wk4-hw1.html)
 - [Homework 2](https://adara-js.github.io/wk4-hw2.html)
+
+## Week 5
+- [Homework 1](https://adara-js.github.io/wk5-hw1.html)
+- [Homework 2](https://adara-js.github.io/wk5-hw2.html)
