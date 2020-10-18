@@ -30,3 +30,4 @@
 ## Week 6
 - [Homework 1](https://adara-js.github.io/wk6-hw1.html)
 - [Homework 2](https://adara-js.github.io/wk6-hw2.html)
+- [Homework 3](https://adara-js.github.io/wk6-hw3.html)
