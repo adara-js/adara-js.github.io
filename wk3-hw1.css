@@ -1,12 +1,9 @@
-li {
-	color: blue;
+header a {
+	font-size: 30px;
+	color: teal;
 }
 
-.done {
-	color: grey;
-}
-
-#clear {
-	background-color: red;
-	color: white;
+#dislikes a {
+	font-weight: bold;
+	color: red;
 }
