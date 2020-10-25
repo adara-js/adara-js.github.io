@@ -6,4 +6,4 @@ const airplaneSeats = [
     ['Rin', 'Sakura', 'Francisco']
 ];
 
-airplaneSeats[3][2] = 'Hugo';
+airplaneSeats[3][1] = 'Hugo';
