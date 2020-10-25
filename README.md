@@ -52,3 +52,12 @@
 - [Homework 9](https://adara-js.github.io/wk6-hw9.js)
 - [Homework 10](https://adara-js.github.io/wk6-hw10.js)
 - [Homework 11](https://adara-js.github.io/wk6-hw11.js)
+
+## Week 7
+- [Homework 1](https://adara-js.github.io/wk7-hw1.js)
+- [Homework 2](https://adara-js.github.io/wk7-hw2.js)
+- [Homework 3](https://adara-js.github.io/wk7-hw3.js)
+- [Homework 4](https://adara-js.github.io/wk7-hw4.js)
+- [Homework 5](https://adara-js.github.io/wk7-hw5.js)
+- [Homework 6](https://adara-js.github.io/wk7-hw6.js)
+- [Homework 7](https://adara-js.github.io/wk7-hw7.js)
